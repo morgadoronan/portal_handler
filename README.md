@@ -1,5 +1,3 @@
-# portal_handler/portal_handler/README.md
-
 # Portal Handler
 
 Portal Handler is a Python project designed to navigate websites and scrape data from tables, transforming the columns into structured metadata. This project utilizes Playwright for web navigation and scraping, and it implements a repository pattern for data access using SQLite.
